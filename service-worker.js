@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gittest-acamica/precache-manifest.0a61f447e615279127b0dccc73e27280.js"
+  "/gittest-acamica/precache-manifest.6d203ca371f1869f8f18ee8e3dfccc8e.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c7e05b8f7123b2b31208a51e6eaca6f",
+    "revision": "a67abfdf98436926a6d5b601f681a207",
     "url": "/gittest-acamica/index.html"
   },
   {
-    "revision": "f16916810fb41144c3e7",
+    "revision": "00bd31c83d0b1c4fa2b9",
     "url": "/gittest-acamica/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gittest-acamica/static/js/2.89af4f3c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f16916810fb41144c3e7",
-    "url": "/gittest-acamica/static/js/main.68f46d70.chunk.js"
+    "revision": "00bd31c83d0b1c4fa2b9",
+    "url": "/gittest-acamica/static/js/main.4bb0728b.chunk.js"
   },
   {
     "revision": "89ba43b15ef46e31ddd5",
