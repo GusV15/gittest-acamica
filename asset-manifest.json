@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gittest-acamica/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gittest-acamica/static/js/main.68f46d70.chunk.js",
+    "main.js.map": "/gittest-acamica/static/js/main.68f46d70.chunk.js.map",
+    "runtime-main.js": "/gittest-acamica/static/js/runtime-main.6f68763d.js",
+    "runtime-main.js.map": "/gittest-acamica/static/js/runtime-main.6f68763d.js.map",
+    "static/js/2.89af4f3c.chunk.js": "/gittest-acamica/static/js/2.89af4f3c.chunk.js",
+    "static/js/2.89af4f3c.chunk.js.map": "/gittest-acamica/static/js/2.89af4f3c.chunk.js.map",
+    "index.html": "/gittest-acamica/index.html",
+    "precache-manifest.0a61f447e615279127b0dccc73e27280.js": "/gittest-acamica/precache-manifest.0a61f447e615279127b0dccc73e27280.js",
+    "service-worker.js": "/gittest-acamica/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gittest-acamica/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.89af4f3c.chunk.js.LICENSE.txt": "/gittest-acamica/static/js/2.89af4f3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f68763d.js",
+    "static/js/2.89af4f3c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.68f46d70.chunk.js"
+  ]
+}
